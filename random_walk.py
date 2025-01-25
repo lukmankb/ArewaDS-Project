@@ -29,7 +29,7 @@ class RandomWalk:
 
             self.x_values.append(x)
             self.y_values.append(y)
-'''
+
 import matplotlib.pyplot as plt
 from random_walk import RandomWalk
 while True:
@@ -52,7 +52,7 @@ while True:
     keep_running = input("Make another walk? (y/n): ")
     if keep_running == 'n':
         break
-'''
+
 # Try it yourself
 '''
 15-3. Molecular Motion: Modify rw_visual.py by replacing ax.scatter() with 
